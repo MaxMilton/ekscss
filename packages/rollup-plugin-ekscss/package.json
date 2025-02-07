@@ -25,6 +25,6 @@
   },
   "devDependencies": {
     "ekscss": "workspace:*",
-    "rollup": "4.24.0"
+    "rollup": "4.34.6"
   }
 }
